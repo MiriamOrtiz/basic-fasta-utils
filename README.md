@@ -1,1 +1,1 @@
-# basic-fasta-utils
+# basic-pasta-utils
